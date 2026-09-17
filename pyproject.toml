@@ -8,6 +8,9 @@ version = "0.6.0"
 description = "Torricelli Asymptotic Cusp Encryption - Post-Quantum Lattice Edition"
 readme = "README.md"
 requires-python = ">=3.8"
+authors = [
+    { name = "Yusuf Arman Acin" }
+]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
