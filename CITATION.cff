@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software or conceptual framework, please cite it as below."
-authors:
-  - family-names: Acin
-    given-names: Yusuf Arman
-title: "Torricelli Asymptotic Cusp Encryption (TACE) v3: A Non-Archimedean Path-Commitment Primitive"
-version: 3.0
-date-released: 2026-09-17
-url: "https://github.com/YOUR_USERNAME/tace-v3"
