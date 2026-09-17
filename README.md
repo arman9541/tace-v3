@@ -7,6 +7,7 @@ Reference implementation and security verification harness for the TACE v3 crypt
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Cryptographic Primitive](https://img.shields.io/badge/Primitive-Path%20Commitment-orange.svg)]()
 [![Quantum Resistance](https://img.shields.io/badge/Quantum%20Resistant-QFT%20Evasion-green.svg)]()
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/arman9541/tace-v3)
 
 ## Overview
 
